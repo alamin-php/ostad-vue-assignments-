@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather Apps</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="container">
+    <h1 class="text-center">Weather Apps</h1>
+    <div class="form-group">
+      <label for="locationInput">Enter Location</label>
+      <input type="text" id="locationInput" class="form-control" placeholder="Enter your location">
+    </div>
+    <button id="submitButton" class="btn btn-success">Get Today Weather</button>
+    <div id="weatherInfo" class="mt-4"></div>
+  </div>
+
+  <script src="./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script type="module" src="./scripts.js"></script>
+</body>
+</html>
