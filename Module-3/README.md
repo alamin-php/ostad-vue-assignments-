@@ -4,4 +4,4 @@
 
 Assignment Photo:
 
-![Module-3](https://github.com/alamin-php/ostad-vue-assignments-/blob/master/Module-2/assets/a-1-1.PNG?raw=true)
+![Module-3](https://github.com/alamin-php/ostad-vue-assignments-/blob/master/Module-3/src/assets/images/full-project.png?raw=true)
