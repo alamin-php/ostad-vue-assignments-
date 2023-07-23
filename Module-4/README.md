@@ -1,7 +1,10 @@
-# Vue 3 + Vite
+<p align="center"><a href="https://vuejs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://ostad.app/" target="_blank"><img src="https://github.com/alamin-php/ostad-assingment/blob/master/module-14/public/assets/ostad-app-logo-vector.png?raw=true" width="200" alt="Ostad Logo"></a></p>
+<h3 align="center">Assignment of Vue.js - Module-4</h3>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### Task:
+Please create an image carousel using Vue.js 3 Composition API. The carousel should support dynamic loading of images, navigation buttons to move between images. You are encouraged to use Vue.js 3, HTML, CSS, and any preferred CSS frameworks such as Bootstrap or Tailwind CSS. 
 
-## Recommended IDE Setup
+Assignment Photo:
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+![Module-4](https://github.com/alamin-php/ostad-vue-assignments-/blob/master/Module-4/src/assets/images/full-project.png?raw=true)
